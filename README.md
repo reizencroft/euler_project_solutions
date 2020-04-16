@@ -8,3 +8,5 @@ For me, the most effective way to learn a language is by using it, and I think t
 This is by no means the best solutions, most probably just the bare minimum to solve the problems.
 
 As of writing, I am currently trying to improve my Lua-fu, so only Lua scripts wil be found here.
+
+Added python scripts.
